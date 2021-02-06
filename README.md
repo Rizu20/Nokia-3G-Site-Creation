@@ -10,6 +10,8 @@ Additionally, there is a Directory input mode, where you can input the directory
 
 While running, the script will prompt for input file type (CSV/Excel/Directory). After the appropriate input filetype is given, the script will prompt for WO file or directory path. Then the output RAML/XML file will be stored in the output directory with appropriate MO name and date/time as filename, which can be loaded in NetAct CM Operation Manager as CM plan.
 
+https://imgur.com/T45hg4H
+
 
 
 
