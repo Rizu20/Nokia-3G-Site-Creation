@@ -96,7 +96,7 @@ def xml_creator(mo_elems_list):
     raml=Element("raml",version="2.0",xmlns="raml20.xsd")
     cmdata=SubElement(raml,"cmData",type="plan",name="3G Plan")
     header=SubElement(cmdata,"header")
-    log=SubElement(header,"log",user="Dhiraagu",dateTime=datetime.now().strftime("%c"),action="created",appInfo="Nokia RAN")
+    log=SubElement(header,"log",user="kazi.noor@nokia.com",dateTime=datetime.now().strftime("%c"),action="created",appInfo="Nokia RAN")
 
     for mo_elem in mo_elems_list:
         cmdata.append(mo_elem)
