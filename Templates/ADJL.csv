@@ -1,0 +1,8 @@
+OBJECT,RNC,WBTS,WCEL,ADJL,operation,,ADJLChangeOrigin,AdjLEARFCN,AdjLMeasBw,AdjLSelectFreq,HopLIdentifier
+ADJL,31,2000,1,1,create,,2,1276,25,0,1
+ADJL,31,3000,1,1,create,,2,1276,25,0,1
+ADJL,31,4000,1,1,create,,2,1276,25,0,1
+ADJL,32,2000,1,1,create,,2,1276,25,0,1
+ADJL,32,3000,1,1,create,,2,1276,25,0,1
+ADJL,32,2222,1,1,create,,2,1276,25,0,1
+ADJL,32,3333,1,1,create,,2,1276,25,0,1
